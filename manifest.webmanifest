@@ -1,0 +1,10 @@
+{
+  "name": "五件事 · 每日打卡",
+  "short_name": "五件事",
+  "description": "每天把真正重要的五件事放在前面。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#1b2a23",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
